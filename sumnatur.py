@@ -1,0 +1,5 @@
+s=0
+x=int(input("Enter any number"))
+for i in range(1,x+1):
+    s=s+i
+print(s)
